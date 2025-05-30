@@ -7,11 +7,11 @@ https://firmware-selector.openwrt.org/
 <details>
 <summary>Exemplos</summary>
 
-![[01_firmware-selector.jpg]]{width=60%}
+![[images/01_firmware-selector.jpg]]{width=60%}
 
-![[02_firmware-selector-customize.jpg]]{width=60%}
+![[images/02_firmware-selector-customize.jpg]]{width=60%}
 
-![[03_firmware-selector-build-download.jpg]]{width=60%}
+![[images/03_firmware-selector-build-download.jpg]]{width=60%}
 
 </details>
 
@@ -28,13 +28,13 @@ https://firmware-selector.openwrt.org/
 <details>
 <summary>Exemplos</summary>
 
-![[05_openwrt-first-screen.jpg]]{width=60%}
+![[images/05_openwrt-first-screen.jpg]]{width=60%}
 
-![[06_openwrt-password-change.jpg]]{width=60%}
+![[images/06_openwrt-password-change.jpg]]{width=60%}
 
-![[07_openwrt-status-menu.jpg]]{width=60%}
+![[images/07_openwrt-status-menu.jpg]]{width=60%}
 
-![[08_openwrt-system-menu.jpg]]{width=60%}
+![[images/08_openwrt-system-menu.jpg]]{width=60%}
 
 </details>
 
@@ -45,11 +45,11 @@ https://firmware-selector.openwrt.org/
 <details>
 <summary>Exemplos</summary>
 
-![[07_openwrt-status-menu.jpg]]
+![[images/07_openwrt-status-menu.jpg]]
 
-![[08_openwrt-system-menu.jpg]]
+![[images/08_openwrt-system-menu.jpg]]
 
-![[09_openwrt-network-menu.jpg]]
+![[images/09_openwrt-network-menu.jpg]]
 
 </details>
 
@@ -76,23 +76,23 @@ https://firmware-selector.openwrt.org/
 <details>
 <summary>Exemplos</summary>
 
-![[10_openwrt-interfaces-page.jpg]]{width=60%}
+![[images/10_openwrt-interfaces-page.jpg]]{width=60%}
 
-![[11_openwrt-interfaces-page-devices.jpg]]{width=60%}
+![[images/11_openwrt-interfaces-page-devices.jpg]]{width=60%}
 
-![[16_openwrt-interface-page-devices.jpg]]{width=60%}
+![[images/16_openwrt-interface-page-devices.jpg]]{width=60%}
 
-![[17_openwrt-interface-page-add-new-interface.jpg]]{width=60%}
+![[images/17_openwrt-interface-page-add-new-interface.jpg]]{width=60%}
 
-![[18_openwrt-interface-page-add-new-interface-general.jpg]]{width=60%}
+![[images/18_openwrt-interface-page-add-new-interface-general.jpg]]{width=60%}
 
-![[19_openwrt-interface-page-add-new-interface-firewall.jpg]]{width=60%}
+![[images/19_openwrt-interface-page-add-new-interface-firewall.jpg]]{width=60%}
 
-![[19_openwrt-interface-page-add-new-interface-firewall.jpg]]{width=60%}
+![[images/19_openwrt-interface-page-add-new-interface-firewall.jpg]]{width=60%}
 
-![[20_openwrt-interface-page-add-new-interface-apply.jpg]]{width=60%}
+![[images/20_openwrt-interface-page-add-new-interface-apply.jpg]]{width=60%}
 
-![[21_openwrt-interface-page-add-new-interface-up.jpg]]{width=60%}
+![[images/21_openwrt-interface-page-add-new-interface-up.jpg]]{width=60%}
 
 </details>
 
@@ -106,13 +106,13 @@ https://firmware-selector.openwrt.org/
 <details>
 <summary>Exemplos</summary>
 
-![[12_openwrt-wireless-page.jpg]]{width=60%}
+![[images/12_openwrt-wireless-page.jpg]]{width=60%}
 
-![[13_openwrt-wireless-network-page.jpg]]{width=60%}
+![[images/13_openwrt-wireless-network-page.jpg]]{width=60%}
 
-![[14_openwrt-wireless-network-page-general-setup.jpg]]{width=60%}
+![[images/14_openwrt-wireless-network-page-general-setup.jpg]]{width=60%}
 
-![[15_openwrt-wireless-network-page-wireless-security.jpg]]{width=60%}
+![[images/15_openwrt-wireless-network-page-wireless-security.jpg]]{width=60%}
 
 </details>
 
@@ -124,7 +124,7 @@ https://firmware-selector.openwrt.org/
 <details>
 <summary>Exemplos</summary>
 
-![[22_openwrt-firewall-page.jpg]]{width=60%}
+![[images/22_openwrt-firewall-page.jpg]]{width=60%}
 
 </details>
 
@@ -137,7 +137,7 @@ https://firmware-selector.openwrt.org/
 <details>
 <summary>Exemplos</summary>
 
-![[23_openwrt-software-page.jpg]]{width=60%}
+![[images/23_openwrt-software-page.jpg]]{width=60%}
 
 </details>
 
@@ -170,28 +170,28 @@ https://firmware-selector.openwrt.org/
 <details>
 <summary>Exemplos</summary>
 
-![[23_openwrt-software-page.jpg]]{width=60%}
+![[images/23_openwrt-software-page.jpg]]{width=60%}
 
-![[24_openwrt-interface-page-add-wireguard-interface.jpg]]{width=60%}
+![[images/24_openwrt-interface-page-add-wireguard-interface.jpg]]{width=60%}
 
-![[25_openwrt-interface-page-add-wireguard-interface-load.jpg]]{width=60%}
+![[images/25_openwrt-interface-page-add-wireguard-interface-load.jpg]]{width=60%}
 
-![[26_openwrt-interface-page-add-wireguard-interface-import.jpg]]{width=60%}
+![[images/26_openwrt-interface-page-add-wireguard-interface-import.jpg]]{width=60%}
 
-![[27_openwrt-interface-page-add-wireguard-interface-import-finish.jpg]]{width=60%}
+![[images/27_openwrt-interface-page-add-wireguard-interface-import-finish.jpg]]{width=60%}
 
-![[28_openwrt-interface-page-add-wireguard-interface-firewall.jpg]]{width=60%}
+![[images/28_openwrt-interface-page-add-wireguard-interface-firewall.jpg]]{width=60%}
 
-![[29_openwrt-interface-page-add-wireguard-interface-firewall-create.jpg]]{width=60%}
+![[images/29_openwrt-interface-page-add-wireguard-interface-firewall-create.jpg]]{width=60%}
 
-![[30_openwrt-interface-page-add-wireguard-interface-peers.jpg]]{width=60%}
+![[images/30_openwrt-interface-page-add-wireguard-interface-peers.jpg]]{width=60%}
 
-![[31_openwrt-interface-page-add-wireguard-interface-peer-routing.jpg]]{width=60%}
+![[images/31_openwrt-interface-page-add-wireguard-interface-peer-routing.jpg]]{width=60%}
 
-![[32_openwrt-firewall-page.jpg]]{width=60%}
+![[images/32_openwrt-firewall-page.jpg]]{width=60%}
 
-![[33_openwrt-firewall-page-lan-forward.jpg]]{width=60%}
+![[images/33_openwrt-firewall-page-lan-forward.jpg]]{width=60%}
 
-![[34_openwrt-firewall-page-wireguard-masquerade.jpg]]{width=60%}
+![[images/34_openwrt-firewall-page-wireguard-masquerade.jpg]]{width=60%}
 
 </details>
