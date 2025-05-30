@@ -2,6 +2,8 @@
 
 # OpenWrt
 
+https://fmfpereira.gitlab.io/hands-on-openwrt
+
 ---
 
 <!-- .element: data-background-color="#003344" -->
@@ -23,6 +25,18 @@ O OpenWrt é um sistema operativo baseado em Linux, destinado a routers e dispos
 ### O que é o OpenWrt?
 
 Este router, lançado no início dos anos 2000, usava um sistema baseado em Linux. Devido à licença GPL do Linux, a Linksys foi obrigada a divulgar o código-fonte do firmware.
+
+---
+
+<!-- .element: data-background-color="#003344" -->
+
+## Plano do Hands-on
+
+- Introdução
+- Como escolher o firmware e noções gerais de instalação
+- Instalação para quem trouxe o seu equipamento
+- Hands-on (execução guiada)
+- Demonstração de um caso prático
 
 ---
 
