@@ -2,7 +2,7 @@
 
 # OpenWrt
 
-`https://fmfpereira.gitlab.io/hands-on-openwrt`
+`fmfpereira.gitlab.io/hands-on-openwrt`
 
 ---
 
