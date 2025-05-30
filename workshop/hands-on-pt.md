@@ -44,11 +44,11 @@ https://firmware-selector.openwrt.org/
 <details>
 <summary>Exemplos</summary>
 
-![Example 07](images/07_openwrt-status-menu.jpg)
+![Example 07](images/07_openwrt-status-menu.jpg){width=60%}
 
-![Example 08](images/08_openwrt-system-menu.jpg)
+![Example 08](images/08_openwrt-system-menu.jpg){width=60%}
 
-![Example 09](images/09_openwrt-network-menu.jpg)
+![Example 09](images/09_openwrt-network-menu.jpg){width=60%}
 
 </details>
 
@@ -58,7 +58,7 @@ https://firmware-selector.openwrt.org/
 - Se no seu dispositivo aparecer a interface **wan**, pode avançar o próximo passo.
 	- O Raspberry Pi 2 Zero W não tem placa de rede incorporada. Neste caso, iremos usar o telemóvel Android como interface **wan**.
 
-#### Adicionar Interface WAN
+#### Adicionar Interface WAN (caso não tenha interface wan)
 
 - Ligue o seu telemóvel Android via USB à placa OTG.
 - No telemóvel deverá aparecer a opção de que está ligado por USB.
