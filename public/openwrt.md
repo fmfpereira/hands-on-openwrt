@@ -3,6 +3,7 @@
 # OpenWrt
 
 `fmfpereira.gitlab.io/hands-on-openwrt`
+`gitlab.com/fmfpereira/hands-on-openwrt`
 
 ---
 
